@@ -1,0 +1,13 @@
+{
+    "devs": [""],
+    "prefix": ["-"],
+    "token": "",
+    "mongo": "",
+    "webhook": {
+        "suggest_webhook": {
+            "id": "",
+            "token": ""
+        }
+    },
+    "emoji_sunuculari": []
+}
